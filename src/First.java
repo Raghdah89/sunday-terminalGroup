@@ -6,5 +6,23 @@ public class First {
 
 
 
+
+
     }
+    void  method() {
+
+    }
+
+    void method2(){
+
+
+
+
+
+    }
+
+    void method3(){
+
+    }
+
 }
